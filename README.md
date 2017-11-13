@@ -82,3 +82,8 @@ Since this server is too simple, I choose the built-in package of golang.
       98%     43
       99%    225
      100%   1437 (longest request)
+
+### Arguments
+
+- `-n` Number of requests to perform.
+- `-c` Number of multiple requests to make at a time.
